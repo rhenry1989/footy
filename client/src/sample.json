@@ -1,0 +1,16 @@
+{
+  "leagueName": "English Premier League",
+  "gameWeek": 1,
+  "fixtures": [
+    {
+      "homeTeamName": "Liverpool FC",
+      "awayTeamName": "Manchester United FC",
+      "homeTeamPosition": 5,
+      "awayTeamPosition": 2,
+      "homeTeamScore": null,
+      "awayTeamScore": null,
+      "homeTeamImg": "http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg",
+      "awayTeamImg": "http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg"
+    }
+  ]
+}
